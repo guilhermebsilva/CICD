@@ -22,4 +22,4 @@ jobs:
             uses: docker/build-push-action@v2
             with:
                 push: false
-                tags: guilhermebsilva/CICD:latest
+                tags: guilhermebsilva/cicd:latest
